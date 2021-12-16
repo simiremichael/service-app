@@ -1,0 +1,33 @@
+{
+  "services": [
+    { "id": 1, "title": "we are your top choice in mansory", "thumbnailUrl": "http://localhost:9000/mansory.jpg",
+    "rating": 4, "specialist":  "Charles Otes", "rate": "5,000"},
+    
+    { "id": 2, "title": "Cleaing is our job", "thumbnailUrl": "http://localhost:9000/cleaning.jpg",
+      "rating": 5, "specialist": "Glory Otes", "rate": "25,000"},
+      
+      { "id": 3, "title": "i handle all you plumbing job", "thumbnailUrl": "http://localhost:9000/plumbing.jpg",
+        "rating": 4, "specialist":  "Chanel gate", "rate": "7,000"},
+      
+        { "id": 4, "title": " car care is what we do", "thumbnailUrl": "http://localhost:9000/mechanic.jpg",
+          "rating": 4, "specialist": "John tee" , "rate": "4,000"}, 
+          
+          { "id": 5, "title": "i do electrical work", "thumbnailUrl": "http://localhost:9000/electrical.jpg",
+            "rating": 5, "specialist": "Les monday", "rate": "3,000"},
+            
+
+      { "id": 6, "title": "i will landscape your garden", "thumbnailUrl": "http://localhost:9000/gardening.jpg",
+        "rating": 4, "specialist": "Zoe ranty", "rate": "20,000"},
+
+        { "id": 5, "title": "i do weldering work", "thumbnailUrl": "http://localhost:9000/welder.jpg",
+          "rating": 5, "specialist": "james ted", "rate": "5,000"},
+          
+
+    { "id": 6, "title": "Your beauty is my priority", "thumbnailUrl": "http://localhost:9000/make-up.jpg",
+      "rating": 4, "specialist": "Tonia bash", "rate": "10,000"}
+
+        
+    
+    ]
+
+} 
